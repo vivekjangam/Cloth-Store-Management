@@ -1,0 +1,2 @@
+105,sweatshirt,informal,1400.0,xxl
+211,hoodie,informal,1500.0,xl

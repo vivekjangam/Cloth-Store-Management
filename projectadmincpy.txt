@@ -1,0 +1,16 @@
+101,sweatshirt,informal,1000,s
+102,sweatshirt,informal,1100,m
+103,sweatshirt,informal,1200,l
+104,sweatshirt,informal,1300,xl
+105,sweatshirt,informal,1400,xll
+106,hoodie,informal,2000,s
+107,hoodie,informal,2100,m
+108,hoodie,informal,2200,l
+109,hoodie,informal,2300,xl
+110,hoodie,informal,2400,xll
+111,t-shirt,informal,1000,s
+112,t-shirt,informal,1100,m
+113,t-shirt,informal,1200,l
+114,planeshirt,informal,300,xl
+115,planeshirt,informal,400,xll
+116,planeshirt,formal,500,m
